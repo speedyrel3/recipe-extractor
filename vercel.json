@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/extract-recipe.js": {
+      "maxDuration": 60
+    }
+  }
+}

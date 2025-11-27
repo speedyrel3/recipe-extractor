@@ -1,0 +1,17 @@
+{
+  "name": "recipe-extractor",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Extract recipes and add to Notion",
+  "main": "api/extract-recipe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "@notionhq/client": "^2.2.15"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
